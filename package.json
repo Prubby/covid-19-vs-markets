@@ -21,7 +21,7 @@
         "compression": "^1.7.1",
         "dotenv": "^8.2.0",
         "faunadb": "^2.13.0",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.1",
         "polka": "next",
         "sirv": "^0.4.0"
     },
